@@ -12,4 +12,5 @@ Quiz project using html, CSS, and Javascript.
   
   The quiz is finished once all questions are answered, or the timer runs out.
   
+![image](https://user-images.githubusercontent.com/51921860/179641476-b00f723a-9bc7-4b8e-bf35-82c1dfe565b8.png)
 
